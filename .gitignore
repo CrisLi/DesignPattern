@@ -1,9 +1,7 @@
-target
-*.swp
-*.iml
-*.ipr
-*.iws
-.idea
-*.classpath
-*.project
-.settings
+*.class
+*.log
+.classpath
+.project
+.springBeans
+
+/target
